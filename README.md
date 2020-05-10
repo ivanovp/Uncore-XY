@@ -1,10 +1,12 @@
-This is the first release of a RepRap-XY 3D printer. It is based on the excellent design of Zelogik. See his github archive at:  https://github.com/zelogik/AluXY
+This is my Uncore-XY 3D printer which is based on RepRap-XY 3D printer. 
+RepRap-XY is based on the excellent design of Zelogik. See his github archive at:  https://github.com/zelogik/AluXY
 
 His design and my variant are discussed in the RepRap forum at:: http://forums.reprap.org/read.php?4,297740
 
 When I saw this printer I thought, this is the printer I want. It has all the features I want in a printer:
 
-- Based on the Core-XY system. (see http://corexy.com/theory.html)
+- Formerly based on the Core-XY system. (see http://corexy.com/theory.html) But I added a motor to XY-block and
+  motors on the frame are Y1 and Y2 now.
 - Frame made from aluminium extrusions.
 - No motors, belts and guides on the outside of the frame.
 
@@ -25,9 +27,5 @@ Just open the file in FreeCAD and run a a macro.
 
 In the doc folder you will find a BOM. This BOM is not generated from the model but hand made, so be carefull
 You will not (yet?) find build instructions there.  Have a look at the sourcefile RepRap-XY.FCStd (FreeCAD) and RepRap-XY.vc3 to see how everything fits together.
-
-To see some videos of my printer have a look at my youtube channel: https://www.youtube.com/channel/UCOyTdQOCCLdy45FtSlam_3A/feed
-and some images at my imgur album: http://jand1122.imgur.com/
-
 
 Have fun. 

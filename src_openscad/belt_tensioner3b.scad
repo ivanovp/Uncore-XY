@@ -1,4 +1,4 @@
-include <Chamfers-for-OpenSCAD/Chamfer.scad>;
+include <Chamfer.scad>;
 
 length = 22;
 width = 15;
